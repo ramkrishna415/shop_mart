@@ -18,7 +18,7 @@ const corsOptions = {
   origin: [
     "http://localhost:5173",
     "http://localhost:3000",
-    "https://shop-mart-8o6y.vercel.app/",
+    "https://shop-mart-8o6y.vercel.app",
     "https://shop-mart-emnh.onrender.com", 
     process.env.FRONTEND_URL,
     process.env.BACKEND_URL
